@@ -3,7 +3,7 @@
 Objective
 The primary objective of the Music Store Analysis project is to leverage SQL to analyze the performance of a music store. This involves examining sales data, customer demographics, and music inventory to extract actionable insights that can help improve business decisions and strategies.
 
-Project Scope
+Project Scope-
 The project will cover various aspects of the music store's operations, including:
 
 Sales Analysis

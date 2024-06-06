@@ -11,6 +11,7 @@ Sales Analysis
 Identifying top-selling tracks, albums, and genres.
 Analyzing sales trends over time.
 Evaluating the performance of sales channels.
+
 Customer Analysis
 
 Profiling customers based on demographics and purchase behavior.
